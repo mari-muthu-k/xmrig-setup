@@ -1,5 +1,5 @@
 # xmrig-setup
-# Easy xmrig setup with unMineable with preset configs 
+# Easy xmrig setup with preset configs 
 
 ```
 wget https://github.com/mari-muthu-k/xmrig-setup/releases/download/$VERSION/setup.sh
