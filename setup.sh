@@ -14,8 +14,8 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-#unzip 
-tar -xzf xmrig-6.22.0-focal-x64.tar.gz
+#unzip
+tar -xzf ./xmrig-6.22.0
 
 # Make the file executable
 chmod +x $FILENAME
